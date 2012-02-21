@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.0" xsi:schemaLocation="http://www.crossref.org/schema/4.3.0 http://www.crossref.org/schema/deposit/crossref4.3.0.xsd">
+	<head>
+		<doi_batch_id>92929298</doi_batch_id>
+		<timestamp>200909211135</timestamp>
+		<depositor>
+			<name>CrossRef</name>
+			<email_address>gbilder@crossref.org</email_address>
+		</depositor>
+		<registrant>Journal of Psychoceramics</registrant>
+	</head>
+	<body>
+		<journal>
+			<journal_metadata language="en">
+				<full_title>Journal of Psychoceramics</full_title>
+				<abbrev_title>Journal of Psychoceramics</abbrev_title>
+				<issn media_type="electronic">0264-3561</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="online">
+					<month>08</month><day>13</day><year>2008</year>
+				</publication_date>
+				<publication_date media_type="print">
+					<month>08</month><day>14</day><year>2008</year>
+				</publication_date>
+				<journal_volume>
+					<volume>5</volume>
+				</journal_volume>
+				<issue>11</issue>
+			</journal_issue>
+			<journal_article publication_type="full_text">
+				<titles>
+					<title>Toward a Unified Theory of High-Energy Metaphysics: Silly String Theory</title>
+				</titles>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Josiah</given_name>
+						<surname>Carberry</surname>
+					</person_name>
+				</contributors>
+				<publication_date media_type="online">
+					<month>08</month><day>13</day><year>2008</year>
+				</publication_date>
+				<publication_date media_type="print">
+					<month>08</month><day>14</day><year>2008</year>
+				</publication_date>
+				<pages>
+					<first_page>1</first_page>
+					<last_page>3</last_page>
+				</pages>
+				<publisher_item>
+					<item_number item_number_type="sequence-number">1</item_number>
+				</publisher_item>
+				
+				<crossmark>
+					<crossmark_policy>10.5555/crossmark_policy</crossmark_policy>
+					<crossmark_domains>
+						<crossmark_domain>
+							<domain>psychoceramics.labs.crossref.org</domain>
+						</crossmark_domain>
+					</crossmark_domains>
+					<crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+					<custom_metadata>
+						<assertion name="crosschecked" label="CrossChecked" group_name="crossref" group_label="CrossRef">Yes</assertion>	
+						<assertion name="crossdressed" label="CrossDressed" group_name="crossref" group_label="CrossRef">Yes</assertion>	
+						<assertion name="crossbred" label="CrossBred" group_name="crossref" group_label="CrossRef">No</assertion>
+						<assertion name="crossmarked" label="CrossMarked" group_name="crossref" group_label="CrossRef">Duh</assertion>
+						<assertion name="peer_reviewed" label="Peer Reviewed">Nope</assertion>
+						<assertion name="fun_level" label="Level of Fun" group_name="disclosure" group_label="Disclosure">Lots</assertion>
+						<assertion name="funding" label="Funding Source" group_name="funding" group_label="Funding">My parents</assertion>
+						<assertion name="funding_percentage" label="Funding Percentage" group_name="funding" group_label="Funding">70%</assertion>
+						<assertion name="crazy_level" label="Level of Crazy" group_name="disclosure" group_label="Disclosure">95%</assertion>
+						<assertion name="animals_injured" label="Animals injured during research" group_name="disclosure" group_label="Disclosure">None</assertion>
+						<assertion name="theory_of_life" label="Thoery of life">Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna. In condimentum orci id nisl volutpat bibendum. Quisque commodo hendrerit lorem quis egestas. Maecenas quis tortor arcu. Vivamus rutrum nunc non neque consectetur quis placerat neque lobortis. Nam vestibulum, arcu sodales feugiat consectetur, nisl orci bibendum elit, eu euismod magna sapien ut nibh.</assertion>
+
+						<assertion name="content_type" label="Content Type">Research Article</assertion>
+						<assertion name="received" label="Received" group_name="publication_history" group_label="Publication History">2008-04-25</assertion>	
+						<assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History">2008-09-30</assertion>	
+						<assertion name="published" label="Published" group_name="publication_history" group_label="Publication History">2008-11-18</assertion>
+						<assertion name="copyright" label="Copyright"  group_name="rights" group_label="Rights">2008, Josiah Carberry</assertion>
+						<assertion name="license" label="License" group_name="rights" group_label="Rights" explanation="http://creativecommons.org/licenses/by/2.0">Creative Commons Attribution</assertion>	
+						<assertion name="more_funding" label="More Funding" group_name="funding" group_label="Funding" href="http://www.sarahpac.com/">SarahPAC</assertion>
+						<assertion name="competing_interests" label="Competing interests" group_name="disclosure" group_label="Disclosure">The author has declared that no competing interests exist.</assertion>						
+					</custom_metadata>
+				</crossmark>
+				<doi_data>
+					<doi>10.5555/12345678</doi>
+					<timestamp>200909211135</timestamp>
+					<resource>http://psychoceramics.labs.crossref.org/10.5555-12345678.html</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+	</body>
+</doi_batch>

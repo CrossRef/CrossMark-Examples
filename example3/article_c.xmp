@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xpacket begin="?" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.0-c316 44.253921, Sun Oct 01 2006 17:14:39">
+    <rdf:RDF    xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:pdfx = "http://ns.adobe.com/pdfx/1.3/"
+        xmlns:pdfaid = "http://www.aiim.org/pdfa/ns/id/"
+        xmlns:xap = "http://ns.adobe.com/xap/1.0/"
+        xmlns:xapRights = "http://ns.adobe.com/xap/1.0/rights/"
+        xmlns:dc = "http://purl.org/dc/elements/1.1/"
+        xmlns:dcterms = "http://purl.org/dc/terms/"
+        xmlns:prism = "http://prismstandard.org/namespaces/basic/2.0/"
+        xmlns:crossmark = "http://crossref.org/crossmark/1.0/">
+        <rdf:Description rdf:about="">
+            <dc:identifier>doi:10.5555/12345680</dc:identifier>
+            <prism:doi>10.5555/12345680</prism:doi>
+            <prism:url>http://dx.doi.org/10.5555/12345680</prism:url>
+            <crossmark:MajorVersionDate>2012-02-29</crossmark:MajorVersionDate>
+            <crossmark:CrossmarkDomainExclusive>false</crossmark:CrossmarkDomainExclusive>
+            <crossmark:DOI>10.5555/12345680</crossmark:DOI>
+            <crossmark:CrossMarkDomains>
+                <rdf:Seq>
+                    <rdf:li>psychoceramics.labs.crossref.org</rdf:li>
+                </rdf:Seq>
+            </crossmark:CrossMarkDomains>
+            <pdfx:doi>10.5555/12345680</pdfx:doi>
+            <pdfx:CrossmarkMajorVersionDate>2012-02-29</pdfx:CrossmarkMajorVersionDate>
+            <pdfx:CrossmarkDomainExclusive>false</pdfx:CrossmarkDomainExclusive>
+            <pdfx:CrossMarkDomains>
+                <rdf:Seq>
+                    <rdf:li>psychoceramics.labs.crossref.org</rdf:li>
+                </rdf:Seq>
+            </pdfx:CrossMarkDomains>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>
