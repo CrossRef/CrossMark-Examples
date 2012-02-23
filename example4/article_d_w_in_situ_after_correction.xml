@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <doi_batch xmlns="http://www.crossref.org/schema/4.3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.0" xsi:schemaLocation="http://www.crossref.org/schema/4.3.0 http://www.crossref.org/schema/deposit/crossref4.3.0.xsd">
 	<head>
-		<doi_batch_id>92929460</doi_batch_id>
-		<timestamp>200909211150</timestamp>
+		<doi_batch_id>92929325</doi_batch_id>
+		<timestamp>200909211140</timestamp>
 		<depositor>
 			<name>CrossRef</name>
 			<email_address>gbilder@crossref.org</email_address>
@@ -18,19 +18,19 @@
 			</journal_metadata>
 			<journal_issue>
 				<publication_date media_type="online">
-					<month>03</month><day>15</day><year>2012</year>
+					<month>05</month><day>06</day><year>2012</year>
 				</publication_date>
 				<publication_date media_type="print">
-					<month>03</month><day>15</day><year>2012</year>
+					<month>05</month><day>06</day><year>2012</year>
 				</publication_date>
 				<journal_volume>
-					<volume>9</volume>
+					<volume>5</volume>
 				</journal_volume>
 				<issue>11</issue>
 			</journal_issue>
 			<journal_article publication_type="full_text">
 				<titles>
-					<title>Interesting Update to A Methodology for the Emulation of Architecture</title>
+					<title>Dog: A Methodology for the Development of Simulated Annealing</title>
 				</titles>
 				<contributors>
 					<person_name sequence="first" contributor_role="author">
@@ -39,10 +39,10 @@
 					</person_name>
 				</contributors>
 				<publication_date media_type="online">
-					<month>03</month><day>15</day><year>2012</year>
+					<month>05</month><day>06</day><year>2012</year>
 				</publication_date>
 				<publication_date media_type="print">
-					<month>03</month><day>15</day><year>2012</year>
+					<month>05</month><day>06</day><year>2012</year>
 				</publication_date>
 				<pages>
 					<first_page>1</first_page>
@@ -61,16 +61,13 @@
 					</crossmark_domains>
 					<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
 					<updates>
-						<update type="interesting_update" label="Interesting Update" date="2012-03-15">10.5555/12345680</update>
+						<update type="correction" label="Correction" date="2012-05-12">10.5555/12345681</update>
 					</updates>
-					<custom_metadata>
-						<assertion name="level_of_interestingness" label="Interestingness" group_name="publication_notes" group_label="Publication Notes">Mega-Interesting</assertion>
-					</custom_metadata>
 				</crossmark>
 				<doi_data>
-					<doi>10.5555/26262626x</doi>
-					<timestamp>200909211150</timestamp>
-					<resource>http://psychoceramics.labs.crossref.org/10.5555-26262626x.html</resource>
+					<doi>10.5555/12345681</doi>
+					<timestamp>200909211140</timestamp>
+					<resource>http://psychoceramics.labs.crossref.org/10.5555-12345681.html</resource>
 				</doi_data>
 			</journal_article>
 		</journal>
